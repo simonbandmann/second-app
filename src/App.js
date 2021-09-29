@@ -25,7 +25,7 @@ function App() {
 
   </Grid>
   <Grid item xs={4}>
-    <Item>And some more.</Item>
+    <Item>And some more. Trying to add some content.</Item>
   </Grid>
   <Grid item xs={4}>
     <Item>xs=4</Item>
