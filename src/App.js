@@ -20,10 +20,12 @@ function App() {
 
   <Grid container spacing={2}>
   <Grid item xs={8}>
-    <Item>xs=8</Item>
+    <Item>This is some content.</Item>
+
+
   </Grid>
   <Grid item xs={4}>
-    <Item>xs=4</Item>
+    <Item>And some more.</Item>
   </Grid>
   <Grid item xs={4}>
     <Item>xs=4</Item>
